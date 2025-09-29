@@ -8,14 +8,14 @@ Welcome to SDC Projects Fall 2025! Everything you need to work through your proj
 ### Project Meetings
 Project meetings are every other Wednesday 6-7PM. unless we say otherwise. During the meetings the VPs of Engineering will give a brief overview on how far along the project should be, and/or information that is relevant at the time.
 
-## Timeline (Sundays)
-Project Meetings are every other non-break week starting **2/16** besides the presentation day
+## Timeline (Wednesdays)
+Project Meetings are every other non-break week starting **10/01**.
 
 
 | Date | Benchmark | Details | Slides |
 |:---:|:--------:|:------------:|:--------:|
-|2/16| Project Meeting | Projects Introduction and Overview | [Slides](https://docs.google.com/presentation/d/1bygzhF6HJ81oN6XbnJ_ltnjrmvVwy_xJNgTMXau5_9c/edit#slide=id.p)|
-|3/2| PM2 | Frameworks + Git Setup | [Slides](https://docs.google.com/presentation/d/125zxaDol2XZp0ZhTYEArdIzya19MPz1sswGP2E1HKas/edit#slide=id.p)
+|10/01| Project Meeting | Projects Introduction and Overview | [Slides](https://docs.google.com/presentation/d/1bygzhF6HJ81oN6XbnJ_ltnjrmvVwy_xJNgTMXau5_9c/edit#slide=id.p)|
+|10/15| Project Meeting 2 | Frameworks + Git Setup | [Slides](https://docs.google.com/presentation/d/125zxaDol2XZp0ZhTYEArdIzya19MPz1sswGP2E1HKas/edit#slide=id.p)
 
 ### About the Timeline
 We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, the timeline is only a guideline, and feel free to work at your own pace!
