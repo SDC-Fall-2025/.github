@@ -1,5 +1,5 @@
 # SDC-Projects Fall 2025
-Welcome to SDC Projects Fall 2025! Everything you need to work through your projects this semester is right here in this repository! If you have not been added to this organization, please contact us at wisconsinsdc@gmail.com or by messaging Marc or Alyona on the club discord.
+Welcome to SDC Projects Fall 2025! Everything you need to work through your projects this semester is right here in this repository! If you have not been added to this organization, please contact us at wisconsinsdc@gmail.com or message Marc or Alyona on the club discord.
 
 ### Important Notes
 * All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teammates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages*
