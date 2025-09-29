@@ -1,12 +1,12 @@
 # SDC-Projects Fall 2025
-Welcome to SDC Projects Fall 2025! Everything you need to work through your projects this semester is right here in this repository! If you have not been added to this organization, please contact one or both of the VPs of Engineering at ddjacobson@wisc.edu or lcanderson4@wisc.edu, or message one of us in the discord.
+Welcome to SDC Projects Fall 2025! Everything you need to work through your projects this semester is right here in this repository! If you have not been added to this organization, please contact us at wisconsinsdc@gmail.com or by messaging Marc or Alyona on the club discord.
 
 ### Important Notes
 * All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teammates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages*
 * You can request to work with other people - there is a box for it on the google form.
 
 ### Project Meetings
-Project meetings are every other Sunday at 5 p.m. unless we say otherwise. During the meetings the VPs of Engineering will give a brief overview on how far along the project should be, and/or information that is relevant at the time.
+Project meetings are every other Wednesday 6-7PM. unless we say otherwise. During the meetings the VPs of Engineering will give a brief overview on how far along the project should be, and/or information that is relevant at the time.
 
 ## Timeline (Sundays)
 Project Meetings are every other non-break week starting **2/16** besides the presentation day
